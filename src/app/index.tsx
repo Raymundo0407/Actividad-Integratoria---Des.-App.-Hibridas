@@ -73,7 +73,7 @@ export default function HomeScreen() {
         </Text>
 
         <Text style={styles.title}>
-          Control de calificaciones
+          Control de calificaciones -version 2
         </Text>
 
         <Text style={styles.subtitle}>
