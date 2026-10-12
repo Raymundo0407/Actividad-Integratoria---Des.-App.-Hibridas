@@ -73,7 +73,7 @@ export default function HomeScreen() {
         </Text>
 
         <Text style={styles.title}>
-          Control de calificaciones -version 2
+          Control de calificaciones -version 3
         </Text>
 
         <Text style={styles.subtitle}>
@@ -264,7 +264,7 @@ const styles = StyleSheet.create({
   },
 
   result: {
-    color: '#1D4ED8',
+    color: '#ff4800',
     fontSize: 23,
     fontWeight: '800',
     marginTop: 4,
