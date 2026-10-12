@@ -135,7 +135,7 @@ export default function HomeScreen() {
 
           <Text style={styles.description}>
             El ciclo for recorre cinco calificaciones y determina
-            si cada alumno aprobó.
+            si cada alumno aprobó o reprobo.
           </Text>
 
           <View style={styles.listBox}>
